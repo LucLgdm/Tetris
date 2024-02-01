@@ -1,4 +1,4 @@
-This Tetris game is a real time game.  
+This Tetris game is a real time game : it was one of my school project.  
 It's a classical game : you earn points when you make a line with bricks which falls from the sky.  
 The more you earn points, the faster the game is.  
 
